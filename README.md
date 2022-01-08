@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Java**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, HTML, CSS**
 
 - 📫 How to reach me **elifkeless2003@gmail.com**
 
