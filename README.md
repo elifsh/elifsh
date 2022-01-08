@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **elifkeles2003@gmail.com**
+- 📫 How to reach me **elifkeless2003@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
